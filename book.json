@@ -5,7 +5,8 @@
 
     "plugins": ["disqus"],
     "pluginsConfig": {
-        "shortName": "leonpak"
+        "disqus": { "shortName": "leonpak"
     }
 }
 
+}
