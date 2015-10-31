@@ -1,8 +1,8 @@
 #简单日记脚本
 ##运行说明
-
+命令行运行 python main.py
 ##命令参数：
 
-python main.py w 写日记
-python main.py r 读日记
-python main.py q 退出
+w 写日记
+r 读日记
+q 退出
