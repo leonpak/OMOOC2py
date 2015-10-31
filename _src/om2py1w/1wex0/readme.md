@@ -3,6 +3,6 @@
 
 ##命令参数：
 
-###python main.py w 写日记
-###python main.py r 读日记
-###python main.py q 退出
+-python main.py w 写日记
+-python main.py r 读日记
+-python main.py q 退出
