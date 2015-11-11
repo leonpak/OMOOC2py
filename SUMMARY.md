@@ -1,8 +1,8 @@
 # Summary
 - [简介](README.md)
 - [Week0](0MOOC/week0/README.md)
-	- [mac系统基础命令](0MOOC/week0/mac.md)
-	- [markdown基础]（0MOOC/week0/markdown.md）
+	- [Mac系统基础命令](0MOOC/week0/mac.md)
+	- [Markdown基础](0MOOC/week0/markdown.md)
 -  
 - [基础旋进](1sTry/README.md)
 - [迭代作品](2nDev/README.md)
