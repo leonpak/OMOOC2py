@@ -3,7 +3,12 @@
 - [Week0](0MOOC/week0/README.md)
 	- [Mac系统基础命令](0MOOC/week0/mac.md)
 	- [Markdown基础](0MOOC/week0/markdown.md)
--  
+	- [Github技巧](0MOOC/week0/github.md)
+	- [Disqus配置](0MOOC/week0/DISQUS.md)
+- [Week1](0MOOC/week1/README.md)
+	- [参考资料](0MOOC/week1/zl.md) 
+- [Week2](0MOOC/week2/README.md)
+	- [IDLE中文输入问题](0MOOC/week2/IDLE.md)
 - [基础旋进](1sTry/README.md)
 - [迭代作品](2nDev/README.md)
 - [人生首秀](3rDemo/README.md)
